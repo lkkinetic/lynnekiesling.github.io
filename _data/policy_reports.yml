@@ -1,0 +1,10 @@
+# TODO: the CV lists 7 policy research/report entries (2005-2025); only the
+# most recent was itemized in the redesign spec. Add the remaining 6 here as:
+#   - year: ####
+#     title: "..."
+#     publisher: "..."
+reports:
+  - year: 2025
+    month: "February"
+    title: "Innovating Future Power Systems: From Vision to Action"
+    publisher: "AEI Electricity Working Group"

@@ -1,0 +1,27 @@
+books:
+  - authors: "Kiesling, L. Lynne"
+    year: 2021
+    title: "The Essential Ronald Coase"
+    publisher: "Fraser Institute"
+  - authors: "Kiesling, L. Lynne"
+    year: 2009
+    title: "Deregulation, Innovation, and Market Liberalization"
+    publisher: "Routledge"
+
+edited_volumes:
+  - authors: "Greif, Avner, Lynne Kiesling, and John V. C. Nye (eds.)"
+    year: 2015
+    title: "Institutions, Innovation, and Industrialization"
+    publisher: "Princeton University Press"
+  - authors: "Kiesling, L. Lynne, and Andrew N. Kleit (eds.)"
+    year: 2009
+    title: "Electricity Restructuring: The Texas Experience"
+    publisher: "AEI Press"
+
+# TODO: the CV lists 7 selected book chapters (2014-2021) that weren't
+# individually itemized in the redesign spec. Add each entry here as:
+#   - authors: "..."
+#     year: ####
+#     title: "..."
+#     in: "Book title (editors, publisher)"
+chapters: []

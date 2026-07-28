@@ -1,0 +1,21 @@
+<nav class="sidebar">
+  <div class="sidebar-inner">
+    <h1 class="sidebar-name"><a href="{{ '/' | relative_url }}">Lynne Kiesling</a></h1>
+    <p class="sidebar-tagline">{{ site.tagline }}</p>
+
+    <ul class="sidebar-nav">
+      {% for item in site.nav %}
+      <li class="sidebar-nav-item{% if page.url == item.url %} active{% endif %}">
+        <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+
+    <ul class="sidebar-links">
+      <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+      <li><a href="{{ site.scholar }}">Google Scholar</a></li>
+      <li><a href="{{ site.ssrn }}">SSRN</a></li>
+      <li><a href="{{ site.orcid }}">ORCID</a></li>
+    </ul>
+  </div>
+</nav>

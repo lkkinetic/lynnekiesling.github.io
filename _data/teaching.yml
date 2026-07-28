@@ -1,0 +1,27 @@
+graduate:
+  - course: "Energy Economics"
+    org: "Northwestern MS Energy & Sustainability program; Purdue University"
+  - course: "Environmental Management & Sustainability"
+    org: "Kellogg School of Management"
+  - course: "Sustainability Lab"
+    org: "Kellogg School of Management"
+
+undergraduate:
+  - course: "Monopoly, Competition, and Public Policy"
+    org: "Northwestern University"
+  - course: "Environmental & Natural Resource Economics"
+    org: "Northwestern University"
+  - course: "History of Economic Thought"
+    org: "Northwestern University; Purdue University"
+  - course: "Introductory Microeconomics"
+    org: "Northwestern University"
+  - course: "Western Economic History"
+    org: "Northwestern University"
+  - course: "Energy Economics"
+    org: "Purdue University"
+
+freshman_seminars:
+  - "Economics of Innovation"
+  - "Complexity and Economics"
+  - "Adam Smith and the Scottish Enlightenment"
+  - "Economics of Energy Markets"

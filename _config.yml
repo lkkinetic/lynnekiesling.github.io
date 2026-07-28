@@ -1,0 +1,42 @@
+title: Lynne Kiesling
+tagline: "Economist — regulation, market design, and digitization of the electricity industry"
+description: "Personal site of Lynne Kiesling: economist specializing in electricity market design, regulatory institutions, and the economics of technological change in network industries."
+url: "https://lynnekiesling.com"
+baseurl: ""
+
+email: lynne@knowledgeproblem.com
+email_northwestern: lynne.kiesling@northwestern.edu
+# TODO: confirm/replace with your actual LinkedIn profile URL
+linkedin: "TODO-LINKEDIN-URL"
+# TODO: confirm/replace with your actual YouTube channel URL
+youtube: "TODO-YOUTUBE-URL"
+twitter: "https://x.com/knowledgeprob"
+substack: "https://knowledgeproblem.substack.com"
+scholar: "https://scholar.google.com/citations?user=3QY5AmsAAAAJ&hl=en"
+ssrn: "https://ssrn.com/author=240214"
+orcid: "https://orcid.org/0000-0002-6854-2653"
+
+nav:
+  - title: Home
+    url: /
+  - title: Publications
+    url: /publications.html
+  - title: Leadership & Convening
+    url: /leadership.html
+  - title: Teaching & Policy
+    url: /teaching.html
+  - title: CV
+    url: /cv.html
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+plugins:
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor

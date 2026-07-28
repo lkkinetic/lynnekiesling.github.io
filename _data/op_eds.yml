@@ -1,0 +1,11 @@
+# TODO: the CV lists 5 selected op-eds/media pieces; only the outlets were
+# named in the redesign spec, not individual titles/dates. Add entries here as:
+#   - year: ####
+#     title: "..."
+#     outlet: "..."
+#     url: "..." # optional
+outlets:
+  - "Wall Street Journal"
+  - "Dallas Morning News"
+  - "Reason"
+  - "Regulation"

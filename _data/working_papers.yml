@@ -1,0 +1,11 @@
+working_papers:
+  - title: "Decentralized Coordination in a Dynamic Grid: A Complexity Economics Theory of Transactive Energy"
+    note: "manuscript, November 2025, under review"
+
+current_projects:
+  - name: "TESS"
+    description: "Transactive energy systems research project"
+    funder: "Post Road Foundation / U.S. Department of Energy"
+  - name: "eVibes"
+    description: "Research project on price-based automation in power systems"
+    funder: "National Science Foundation"
